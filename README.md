@@ -1,7 +1,7 @@
 # 𝙰𝚄𝚃𝙾 𝙰𝙿𝙿𝚁𝙾𝚅𝙰𝙻 𝙱𝙾𝚃 🥀𝙼𝙰𝙳𝙴 𝙱𝚈 𝚂𝚈𝙽𝙰𝚇🥀
 👾 Hey I'll Accept telegram join requests. Easy to use and simple.
 
-## 🚀 Demo Bot
+## 🚀 Owner
 - [Owner](https://t.me/OGsnx)
 
 <h2>〽️ Deploy Me </h2> 
