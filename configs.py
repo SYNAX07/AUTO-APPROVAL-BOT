@@ -1,6 +1,6 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# 𝙳𝚘𝚗'𝚝 𝚁𝚎𝚖𝚘𝚟𝚎 𝙲𝚛𝚎𝚍𝚒𝚝 @ASHWANI10
+# 𝚂𝚞𝚋𝚜𝚌𝚛𝚒𝚋𝚎 Telegram 𝙲𝚑𝚊𝚗𝚗𝚎𝚕 𝙵𝚘𝚛 𝙰𝚖𝚊𝚣𝚒𝚗𝚐 𝙱𝚘𝚝 @Quantabots
+# 𝙰𝚜𝚔 𝙳𝚘𝚞𝚋𝚝 𝚘𝚗 𝚝𝚎𝚕𝚎𝚐𝚛𝚊𝚖 @OGsnx
 
 
 from os import path, getenv
@@ -8,14 +8,14 @@ from os import path, getenv
 class Config:
     API_ID = int(getenv("API_ID", "20389440"))
     API_HASH = getenv("API_HASH", "a1a06a18eb9153e9dbd447cfd5da2457")
-    BOT_TOKEN = getenv("BOT_TOKEN", "6564513574:AAGDqUaEmeu0m4DjLDetNc4nooVTWYT7Fzo")
-    FSUB = getenv("FSUB", "VJ_Botz")
-    CHID = int(getenv("CHID", "-1001623633000"))
-    SUDO = list(map(int, getenv("SUDO", "6168162777").split()))
-    MONGO_URI = getenv("MONGO_URI", "mongodb+srv://sushankm16:4i1WAfPYKWyqPIDD@cluster0.sngp9pz.mongodb.net/?retryWrites=true&w=majority")
+    BOT_TOKEN = getenv("BOT_TOKEN", "")
+    FSUB = getenv("FSUB", "Quantabots")
+    CHID = int(getenv("CHID", ""))
+    SUDO = list(map(int, getenv("SUDO", "").split()))
+    MONGO_URI = getenv("MONGO_URI", "")
     
 cfg = Config()
 
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# 𝙳𝚘𝚗'𝚝 𝚁𝚎𝚖𝚘𝚟𝚎 𝙲𝚛𝚎𝚍𝚒𝚝 @ASHWANI10
+# 𝚂𝚞𝚋𝚜𝚌𝚛𝚒𝚋𝚎 Telegram 𝙲𝚑𝚊𝚗𝚗𝚎𝚕 𝙵𝚘𝚛 𝙰𝚖𝚊𝚣𝚒𝚗𝚐 𝙱𝚘𝚝 @Quantabots
+# 𝙰𝚜𝚔 𝙳𝚘𝚞𝚋𝚝 𝚘𝚗 𝚝𝚎𝚕𝚎𝚐𝚛𝚊𝚖 @OGsnx
